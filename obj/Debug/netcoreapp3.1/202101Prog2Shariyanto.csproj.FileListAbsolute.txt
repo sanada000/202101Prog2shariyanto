@@ -1,0 +1,13 @@
+D:\Web Project\202101Prog2Shariyanto\bin\Debug\netcoreapp3.1\202101Prog2Shariyanto.exe
+D:\Web Project\202101Prog2Shariyanto\bin\Debug\netcoreapp3.1\202101Prog2Shariyanto.deps.json
+D:\Web Project\202101Prog2Shariyanto\bin\Debug\netcoreapp3.1\202101Prog2Shariyanto.runtimeconfig.json
+D:\Web Project\202101Prog2Shariyanto\bin\Debug\netcoreapp3.1\202101Prog2Shariyanto.runtimeconfig.dev.json
+D:\Web Project\202101Prog2Shariyanto\bin\Debug\netcoreapp3.1\202101Prog2Shariyanto.dll
+D:\Web Project\202101Prog2Shariyanto\bin\Debug\netcoreapp3.1\202101Prog2Shariyanto.pdb
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.csprojAssemblyReference.cache
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.AssemblyInfoInputs.cache
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.AssemblyInfo.cs
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.csproj.CoreCompileInputs.cache
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.dll
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.pdb
+D:\Web Project\202101Prog2Shariyanto\obj\Debug\netcoreapp3.1\202101Prog2Shariyanto.genruntimeconfig.cache
